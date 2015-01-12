@@ -1,0 +1,7 @@
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/bin/Debug/Xamarin-FixedLabel.dll.mdb
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/bin/Debug/Xamarin-FixedLabel.dll
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/obj/Debug/Xamarin-FixedLabel.dll
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/obj/Debug/Xamarin-FixedLabel.dll.mdb
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/bin/Debug/Xamarin.Forms.Core.dll
+/Users/daniel/Repos/Xamarin-FixedLabel/Xamarin-FixedLabel/bin/Debug/Xamarin.Forms.Xaml.dll
