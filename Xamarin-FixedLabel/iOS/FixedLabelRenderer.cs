@@ -5,8 +5,9 @@ using MonoTouch.UIKit;
 using Xamarin.Forms;
 using System.Drawing;
 using XamarinFixedLabel;
+using XamarinFixedLabel.iOS;
 
-
+[assembly:ExportRenderer(typeof(FixedLabel), typeof(FixedLabelRenderer))]
 
 namespace XamarinFixedLabel.iOS
 {
